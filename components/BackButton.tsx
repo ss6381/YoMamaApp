@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     backButton: {
         backgroundColor: 'gray',
         position: 'absolute',
-        top: 30,
+        top: 60,
         left: 25,
         padding: 10,
         borderRadius: 10,

@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { StatusBar, StyleSheet, Text, View } from 'react-native';
 import CircleButton from './components/CircleButton';
 import BackButton from './components/BackButton';
 import { useState } from 'react';
@@ -24,6 +24,7 @@ export default function App() {
           <CircleButton onClick={handleOnClick} title="Yo Mama!" />
         </View>
       )}
+      <StatusBar barStyle={"light-content"} />
     </>
   );
 }

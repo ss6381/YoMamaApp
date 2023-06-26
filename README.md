@@ -1,5 +1,8 @@
 # YoMamaApp
 
+![alt text](https://github.com/ss6381/YoMamaApp/blob/main/docs/home.png?raw=true)
+![alt text](https://github.com/ss6381/YoMamaApp/blob/main/docs/joke.png?raw=true)
+
 ## Setup
 
 ```bash
